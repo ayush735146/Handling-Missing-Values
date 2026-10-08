@@ -1,0 +1,9 @@
+Column,Missing_Before,Missing_After
+PassengerId,0,0
+Pclass,0,0
+Name,0,0
+Age,3,0
+Sex,0,0
+Fare,2,0
+Embarked,1,0
+Survived,0,0
